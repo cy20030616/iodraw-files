@@ -79,19 +79,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-36" value="控制电机" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="272.5" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="272.5" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-38" target="j9VmanhtN0T78y22wgSD-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-38" value="状态信息上报至MQTT平台" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="272.5" y="968" width="120" height="60" as="geometry" />
+          <mxGeometry x="272.5" y="958" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-40" value="等待下一次用户输入或远程指令" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="272.5" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="272.5" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-42" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="938" width="40" height="30" as="geometry" />
+          <mxGeometry x="340" y="928" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-22" target="j9VmanhtN0T78y22wgSD-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -110,7 +110,7 @@
             <Array as="points">
               <mxPoint x="470" y="775" />
               <mxPoint x="470" y="940" />
-              <mxPoint x="470" y="1090" />
+              <mxPoint x="470" y="1080" />
             </Array>
           </mxGeometry>
         </mxCell>
