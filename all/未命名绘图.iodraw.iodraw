@@ -54,10 +54,10 @@
         <mxCell id="5Tyb3xeh6u8QebGAmpes-3" value="ESP8266" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Tyb3xeh6u8QebGAmpes-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5Tyb3xeh6u8QebGAmpes-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Tyb3xeh6u8QebGAmpes-0" target="5Tyb3xeh6u8QebGAmpes-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="-530" as="sourcePoint" />
-            <mxPoint x="430" y="-580" as="targetPoint" />
+            <mxPoint x="410" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
