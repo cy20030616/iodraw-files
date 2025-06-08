@@ -43,8 +43,8 @@
         <mxCell id="j9VmanhtN0T78y22wgSD-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="650" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="j9VmanhtN0T78y22wgSD-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="j9VmanhtN0T78y22wgSD-20" value="MQTT 消息监听（订阅主题）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="j9VmanhtN0T78y22wgSD-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
