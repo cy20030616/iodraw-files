@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-18" value="验证密码/解析指令是否有效" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="680" width="170" height="180" as="geometry" />
+          <mxGeometry x="240" y="710" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-20" target="j9VmanhtN0T78y22wgSD-22">
           <mxGeometry relative="1" as="geometry" />
@@ -88,20 +88,10 @@
           <mxGeometry x="190" y="958" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-40" value="等待下一次用户输入或远程指令" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="265" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="1050" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-42" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="928" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j9VmanhtN0T78y22wgSD-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-22" target="j9VmanhtN0T78y22wgSD-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="530" as="sourcePoint" />
-            <mxPoint x="430" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="414" y="690" />
-              <mxPoint x="333" y="690" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-18" target="j9VmanhtN0T78y22wgSD-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
