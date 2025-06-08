@@ -54,9 +54,6 @@
         <mxCell id="5Tyb3xeh6u8QebGAmpes-0" value="STM32F407" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Tyb3xeh6u8QebGAmpes-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Tyb3xeh6u8QebGAmpes-3" target="5Tyb3xeh6u8QebGAmpes-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-3" value="ESP8266" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
