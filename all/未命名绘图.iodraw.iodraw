@@ -5,22 +5,25 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="ESP8266 通过 MQTT 协议连接 MQTT平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="420" width="120" height="70" as="geometry" />
+          <mxGeometry x="190" y="390" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-0" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-0" value="ESP8266 初始化并连接 Wi-Fi 网络" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-2" target="j9VmanhtN0T78y22wgSD-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-2" value="STM32 初始化各外设（GPIO、USART、定时器等）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9VmanhtN0T78y22wgSD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-4" target="j9VmanhtN0T78y22wgSD-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-4" value="系统上电初始化" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
