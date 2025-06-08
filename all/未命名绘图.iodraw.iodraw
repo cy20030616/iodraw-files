@@ -112,7 +112,13 @@
           <mxGeometry x="180" y="-840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-28" value="MQTT平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="-790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Tyb3xeh6u8QebGAmpes-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Tyb3xeh6u8QebGAmpes-3" target="5Tyb3xeh6u8QebGAmpes-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="-660" as="sourcePoint" />
+            <mxPoint x="550" y="-710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
