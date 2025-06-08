@@ -48,6 +48,9 @@
         <mxCell id="5Tyb3xeh6u8QebGAmpes-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Tyb3xeh6u8QebGAmpes-0" target="5Tyb3xeh6u8QebGAmpes-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5Tyb3xeh6u8QebGAmpes-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Tyb3xeh6u8QebGAmpes-0" target="5Tyb3xeh6u8QebGAmpes-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-0" value="STM32F407" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
@@ -78,8 +81,8 @@
         <mxCell id="5Tyb3xeh6u8QebGAmpes-16" value="GPIO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="-832" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Tyb3xeh6u8QebGAmpes-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="-805" width="80" height="80" as="geometry" />
+        <mxCell id="5Tyb3xeh6u8QebGAmpes-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="-800" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
