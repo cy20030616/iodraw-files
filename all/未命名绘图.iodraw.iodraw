@@ -4,9 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="j9VmanhtN0T78y22wgSD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="j9VmanhtN0T78y22wgSD-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="ESP8266 通过 MQTT 协议连接 MQTT平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="370" width="120" height="70" as="geometry" />
         </mxCell>
@@ -14,19 +11,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-0" value="ESP8266 初始化并连接 Wi-Fi 网络" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-2" target="j9VmanhtN0T78y22wgSD-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-2" value="STM32 初始化各外设（GPIO、USART、定时器等）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-4" target="j9VmanhtN0T78y22wgSD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-4" value="系统上电初始化" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j9VmanhtN0T78y22wgSD-12" target="j9VmanhtN0T78y22wgSD-14">
           <mxGeometry relative="1" as="geometry" />
@@ -48,12 +45,6 @@
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-20" value="MQTT 消息监听（订阅主题）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j9VmanhtN0T78y22wgSD-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="j9VmanhtN0T78y22wgSD-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="460" as="sourcePoint" />
-            <mxPoint x="430" y="450" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="j9VmanhtN0T78y22wgSD-22" value="接收到远程控制指令" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="570" width="120" height="60" as="geometry" />
