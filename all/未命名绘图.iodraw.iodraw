@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-10" value="uart" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="-760" width="40" height="30" as="geometry" />
+          <mxGeometry x="350" y="-770" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Tyb3xeh6u8QebGAmpes-11" target="5Tyb3xeh6u8QebGAmpes-0">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="260" y="-710" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-16" value="GPIO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="-832" width="50" height="30" as="geometry" />
+          <mxGeometry x="260" y="-832" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
