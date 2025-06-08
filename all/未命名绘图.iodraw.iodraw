@@ -129,8 +129,8 @@
             <mxPoint x="490" y="-620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Tyb3xeh6u8QebGAmpes-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="-762" width="50" height="30" as="geometry" />
+        <mxCell id="5Tyb3xeh6u8QebGAmpes-34" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="-762" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
