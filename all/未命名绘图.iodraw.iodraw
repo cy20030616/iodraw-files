@@ -84,6 +84,9 @@
         <mxCell id="5Tyb3xeh6u8QebGAmpes-18" value="OLED显示屏" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="-800" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5Tyb3xeh6u8QebGAmpes-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="-782" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
