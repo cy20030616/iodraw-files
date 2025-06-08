@@ -55,7 +55,7 @@
           <mxGeometry x="210" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-3" value="ESP8266" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="-790" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Tyb3xeh6u8QebGAmpes-0" target="5Tyb3xeh6u8QebGAmpes-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -112,7 +112,7 @@
           <mxGeometry x="180" y="-840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-28" value="MQTT平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="-790" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Tyb3xeh6u8QebGAmpes-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Tyb3xeh6u8QebGAmpes-3" target="5Tyb3xeh6u8QebGAmpes-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
